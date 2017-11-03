@@ -175,3 +175,10 @@ h6 {
     text-align: center;
     font-size: 500%;
 }
+
+@media(max-width: 600px) {
+    body {
+        background-image: url(imagens/background.png);
+        background-size: auto;
+    }
+}
